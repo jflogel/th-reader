@@ -1,0 +1,21 @@
+#syncronex-loginScreen {
+    display: none !important
+}
+#syncronex-cover {
+    display: none !important
+}
+header .headline {
+    display: block !important
+}
+.asset-content p {
+    display: block !important
+}
+.asset-info p, .asset-info h4 {
+    display: block !important
+}
+#footer-ad-slot-2 {
+    display: none !important
+}
+.tnt-ads-container {
+    display: none
+}

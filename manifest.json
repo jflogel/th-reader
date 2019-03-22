@@ -1,0 +1,13 @@
+{
+  "name": "Telegraph Herald Reader",
+  "version": "1.0",
+  "description": "Strips out content that disrupts reading the news",
+  "content_scripts": [
+    {
+      "matches": ["http://www.telegraphherald.com/*"],
+      "all_frames": true,
+      "css": ["styles.css"]
+    }
+  ],
+  "manifest_version": 2
+}
