@@ -7,8 +7,11 @@
 header .headline {
     display: block !important
 }
-.asset-content p {
+.asset-content > * {
     display: block !important
+}
+.asset-content > .tnt-ads-container {
+    display: none !important
 }
 .asset-info p, .asset-info h4 {
     display: block !important
