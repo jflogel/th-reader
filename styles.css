@@ -16,7 +16,7 @@ header .headline {
 .asset-info p, .asset-info h4 {
     display: block !important
 }
-#asset-photo .caption-text p {
+#asset-photo .caption-text p, figure.photo .caption-text p {
     display: block !important;
 }
 #footer-ad-slot-2 {
